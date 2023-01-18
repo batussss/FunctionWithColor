@@ -22,5 +22,4 @@ this software is written by batuhan
 in any questions and other things mail: batuddxd@gmail.com
 
 
-
-
+<a href="https://ibb.co/GxQGnfs"><img src="https://i.ibb.co/yfFKdmh/exp.png" alt="exp" border="0"></a>
