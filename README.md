@@ -1,7 +1,9 @@
 # FunctionWithColor
 <hr />
 US: <br />
-One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions.
+!Currently, blue color is defined in the codes in the project, it can be added in other colors with the same codes <br />
+!functions are arranged according to the desired situation !
+One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions. !
 
 Some of the aims of this project: <br />
 1-Effectiveness can be achieved thanks to the cameras placed under the UAV vehicles. It can react autonomously to negative situations such as fire with the color ranges detected from the cameras. <br />
@@ -30,6 +32,7 @@ working logic of the software:<br />
 <hr />
 TR: <br />
 !Şuan projede kodlarında mavi renk tanımlıdır diğer renklerde aynı kodlarla eklenebilir <br />
+!istenilen duruma göre fonksiyonlar düzenlenir <br />
 <br />
 Bu projenin amaçlarından bazıları: <br />
 1-İHA araçlarının altına yerleştirilen kameralarda aktiflik sağlayabilmesidir.Kameralardan tespit edilen renk aralıklarıyla yangın gibi olumsuz durumlara otonom bir şekilde müdahale gerçekleştirebilir <br />
