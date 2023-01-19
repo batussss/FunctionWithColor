@@ -1,5 +1,6 @@
 # FunctionWithColor
-
+<hr />
+US:
 One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions.
 
 exp:For example, the color ranges of the fire can be determined in an infrared camera or a normal camera, and when the color ranges come to a certain angle of the camera, it can provide the necessary operations autonomously.
@@ -20,6 +21,6 @@ working logic of the software:<br />
 this software is written by batuhan
 
 in any questions and other things mail: batuddxd@gmail.com
-
+<hr />
 
 <a href="https://ibb.co/GxQGnfs"><img src="https://i.ibb.co/yfFKdmh/exp.png" alt="exp" border="0"></a>
