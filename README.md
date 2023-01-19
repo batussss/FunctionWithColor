@@ -3,7 +3,14 @@
 US: <br />
 One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions.
 
-exp:For example, the color ranges of the fire can be determined in an infrared camera or a normal camera, and when the color ranges come to a certain angle of the camera, it can provide the necessary operations autonomously.
+Some of the aims of this project: <br />
+1-Effectiveness can be achieved thanks to the cameras placed under the UAV vehicles. It can react autonomously to negative situations such as fire with the color ranges detected from the cameras. <br />
+Example: If the thermal values of the fire exceed a certain size as soon as it is transmitted using a thermal camera, water evacuation and law enforcement can be notified. <br />
+ <br />
+2- Autonomous material extraction from drones, cameras placed under UAV vehicles, on a flat area according to the differences in needs.<br />
+example scenario: snowy places on the mountain that are not immediately accessible, etc. In case of need, colored objects with a certain area given to the mountaineers can be set up on the flat area and the UAV detects this color and the given area, and according to the color difference, the desired water, food and other determined materials can be left from above in an autonomous way. <br />
+
+example scenario: snowy places on the mountain that are not immediately accessible, etc. In case of need, colored objects with a certain area given to the mountaineers can be set up on the flat area and the UAV detects this color and the given area, and according to the color difference, the desired water, food and other determined materials can be left from above in an autonomous way. <br />
 
 This project has been implemented with the OpenCV library <br />
 ########################################## <br />
