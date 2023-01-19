@@ -10,7 +10,7 @@ Some of the aims of this project: <br />
 Example: If the thermal values of the fire exceed a certain size as soon as it is transmitted using a thermal camera, water evacuation and law enforcement can be notified. <br />
  <br />
 2- Autonomous material extraction from drones, cameras placed under UAV vehicles, on a flat area according to the differences in needs.<br />
-example scenario: snowy places on the mountain that are not immediately accessible, etc. In case of need, colored objects with a certain area given to the mountaineers can be set up on the flat area and the UAV detects this color and the given area, and according to the color difference, the desired water, food and other determined materials can be left from above in an autonomous way. <br />
+Example: snowy places on the mountain that are not immediately accessible, etc. In case of need, colored objects with a certain area given to the mountaineers can be set up on the flat area and the UAV detects this color and the given area, and according to the color difference, the desired water, food and other determined materials can be left from above in an autonomous way. <br />
 
 example scenario: snowy places on the mountain that are not immediately accessible, etc. In case of need, colored objects with a certain area given to the mountaineers can be set up on the flat area and the UAV detects this color and the given area, and according to the color difference, the desired water, food and other determined materials can be left from above in an autonomous way. <br />
 
