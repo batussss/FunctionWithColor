@@ -11,8 +11,8 @@ working logic of the software:<br />
 2-uses specific hsv value ranges for colors <br />
 3-the square appears on the camera<br />
 4-If the specified color field value inside the square is greater than the desired color, the color is framed. <br />
-5-Writes the coordinate values from the camera to the console <br />
-6-loop is entered if the area is inside the frame on the camera <br />
+5-loop is entered if the area is inside the frame on the camera <br />
+6-Writes the coordinate values from the camera to the console <br />
 7-It detects which color is in the frame and determines the range of color values and runs the function of that color. <br />
 8-software stops with "q" key <br />
 ########################################## <br />
