@@ -1,6 +1,6 @@
 # FunctionWithColor
 <hr />
-US:
+US: <br />
 One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions.
 
 exp:For example, the color ranges of the fire can be determined in an infrared camera or a normal camera, and when the color ranges come to a certain angle of the camera, it can provide the necessary operations autonomously.
@@ -17,22 +17,23 @@ working logic of the software:<br />
 7-It detects which color is in the frame and determines the range of color values and runs the function of that color. <br />
 8-software stops with "q" key <br />
 ########################################## <br />
-
-
+<br />
+<br />
 <hr />
 <hr />
-TR:
-!Şuan projede kodlarında mavi renk tanımlıdır diğer renklerde aynı kodlarla eklenebilir
+TR: <br />
+!Şuan projede kodlarında mavi renk tanımlıdır diğer renklerde aynı kodlarla eklenebilir <br />
+<br />
+Bu projenin amaçlarından bazıları: <br />
+1-İHA araçlarının altına yerleştirilen kameralarda aktiflik sağlayabilmesidir.Kameralardan tespit edilen renk aralıklarıyla yangın gibi olumsuz durumlara otonom bir şekilde müdahale gerçekleştirebilir <br />
+örnek:termal kamera kullanılarak yapılan intikal anında yangının verilen termal değerleri belirli büyüklüğü geçerse su bırakma ve kolluk kuvvetlerine haber iletimi yapılabilir. <br />
+ <br />
+2-İHA araçlarının altına yerleştirilen kameralardan düzlük alandaki ihtiyaç farklılıklarına göre malzemelerin ihadan otonom birşekilde atılması.<br />
 
-Bu projenin amaçlarından bazıları:
-1-İHA araçlarının altına yerleştirilen kameralarda aktiflik sağlayabilmesidir.Kameralardan tespit edilen renk aralıklarıyla yangın gibi olumsuz durumlara otonom bir şekilde müdahale gerçekleştirebilir
-örnek:termal kamera kullanılarak yapılan intikal anında yangının verilen termal değerleri belirli büyüklüğü geçerse su bırakma ve kolluk kuvvetlerine haber iletimi yapılabilir.
-
-2-İHA araçlarının altına yerleştirilen kameralardan düzlük alandaki ihtiyaç farklılıklarına göre malzemelerin ihadan otonom birşekilde atılması.
-örnek senaryo: laşılması anlık mümkün olmayan dağda karlık yerler vb. dağcılara verilen belirli alana sahip renkli nesneleri ihtiyaç durumunda düzlük alana kurup ihanın bu renk ve verilen alanı tespit etmesiyle renk farklılığına göre istenilen su,yemek ve diğer belirlenen malzemeleri otonom bir şekilde yukardan bırakılabilir.
-
-Projede OpenCV kütüphanesinden yaralanılmıştır
-
+örnek senaryo: laşılması anlık mümkün olmayan dağda karlık yerler vb. dağcılara verilen belirli alana sahip renkli nesneleri ihtiyaç durumunda düzlük alana kurup ihanın bu renk ve verilen alanı tespit etmesiyle renk farklılığına göre istenilen su,yemek ve diğer belirlenen malzemeleri otonom bir şekilde yukardan bırakılabilir. <br />
+<br />
+Projede OpenCV kütüphanesinden yaralanılmıştır <br />
+<br />
 ########################################## <br />
 Yazılımın çalışma sırası: <br />
 1-İstenilen kameralar etkinleştirildi <br />
