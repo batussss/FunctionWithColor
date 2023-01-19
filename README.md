@@ -3,7 +3,7 @@
 US: <br />
 !Currently, blue color is defined in the codes in the project, it can be added in other colors with the same codes <br />
 !functions are arranged according to the desired situation !
-One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions. !
+One of the aims of the project is to determine the color ranges detected from the cameras placed under the (UAV) and apply the necessary actions. ! !
 
 Some of the aims of this project: <br />
 1-Effectiveness can be achieved thanks to the cameras placed under the UAV vehicles. It can react autonomously to negative situations such as fire with the color ranges detected from the cameras. <br />
