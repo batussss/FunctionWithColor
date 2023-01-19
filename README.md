@@ -57,7 +57,7 @@ Yazılımın çalışma sırası: <br />
 7-Ekrandaki karenin içindeki renk aralığını deneyerek hangi renk olduğunu bulur ve o rengin fonksiyonunu çalıştırır(fonksiyonlar ihtiyaca göre düzenlenir) <br />
 8-yazılım q tuşuna tıklayak durur <br />
 <hr />
-
+########################################## <br />
 
 
 
