@@ -4,7 +4,7 @@ One of the aims of the project is to determine the color ranges detected from th
 
 exp:For example, the color ranges of the fire can be determined in an infrared camera or a normal camera, and when the color ranges come to a certain angle of the camera, it can provide the necessary operations autonomously.
 
-This project has been implemented with the cv2 library <br />
+This project has been implemented with the OpenCV library <br />
 ########################################## <br />
 working logic of the software:<br />
 1-cameras are activated<br />
